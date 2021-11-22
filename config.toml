@@ -12,23 +12,24 @@ enableEmoji     = true
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
+
+  # Metadata mostly used in document's head
+  description = "sheep's personal website"
+  keywords = "homepage, blog"
+  images = [""]
   
-  # My config options
-  enableThemeToggle = true
-  
+  # Home stuff
   homeTitle = "sheep"
   homeSubtitle = "A web developer from Zagreb, Croatia"
+  
+  # Theme toggle
+  enableThemeToggle = true
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
   enableSharingButtons = false
-
-  # Metadata mostly used in document's head
-  description = "sheep's personal website"
-  keywords = "homepage, blog"
-  images = [""]
   
   [params.footer]
     trademark = false
