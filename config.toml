@@ -3,7 +3,7 @@ title        = "sheep's website"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
-copyright = '<a href=\"/license\">License</a>'
+copyright = '<a href=\/license\>License</a>'
 
 enableEmoji     = true
 
