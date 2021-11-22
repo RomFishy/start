@@ -14,7 +14,6 @@ enableEmoji     = true
   dateformNumTime = "2006-01-02 15:04"
   
   # My config options
-  enableSharingButtons = false
   enableThemeToggle = true
 
   # Subtitle for home
@@ -24,7 +23,7 @@ enableEmoji     = true
   disableReadOtherPosts = false
 
   # Enable sharing buttons, if you like
-  enableSharingButtons = true
+  enableSharingButtons = false
 
   # Metadata mostly used in document's head
   description = "My new homepage or blog"
@@ -58,9 +57,7 @@ enableEmoji     = true
     [languages.en.params.logo]
       logoText = "sheep's website"
       logoHomeLink = "/"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
+      path = "/img/pfp.png"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
