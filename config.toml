@@ -31,15 +31,15 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Hello Friend NG"
-    subtitle = "A simple theme for Hugo"
+    title = "sheep's website"
+    subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "hello friend ng"
-      logoHomeLink = "/"
+      logoText = "sheep's website"
+      logoHomeLink = "/website"
     # or
     #
     # path = "/img/your-example-logo.svg"
@@ -49,4 +49,4 @@ paginate     = 10
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/posts"
+    url        = "/website/posts"
