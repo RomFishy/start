@@ -17,7 +17,8 @@ enableEmoji     = true
   enableThemeToggle = true
 
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeTitle= "sheep"
+  homeSubtitle = "A web developer from Zagreb, Croatia"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -36,9 +37,6 @@ enableEmoji     = true
     copyright = true
     author = true
 
-    topText = [
-      "©️ 2021 sheep"
-    ]
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/pages\">GitHub Pages</a>",
       "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
