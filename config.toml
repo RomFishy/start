@@ -19,7 +19,7 @@ enableEmoji     = true
   images = [""]
   
   # Home stuff
-  homeTitle = "sheep"
+  title = "sheep"
   homeSubtitle = "A web developer from Zagreb, Croatia"
   
   # Theme toggle
