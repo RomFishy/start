@@ -79,6 +79,7 @@ enableEmoji     = true
     [languages.en.params.logo]
       logoText = "sheep"
       logoHomeLink = "/"
+      logoCursorColor = "#3281ea"
     #  path = "https://raw.githubusercontent.com/sheeepdev/website/main/img/pfp.png"
     # alt = "Your example logo alt text"
 
