@@ -68,3 +68,7 @@ enableEmoji     = true
     identifier = "blog"
     name       = "Blog"
     url        = "posts"
+   [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about"  
