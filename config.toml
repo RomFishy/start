@@ -57,7 +57,7 @@ enableEmoji     = true
     [languages.en.params.logo]
       logoText = "sheep's website"
       logoHomeLink = "/"
-      path = "/img/pfp.png"
+      path = "img/pfp.png"
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
