@@ -3,6 +3,7 @@ title        = "sheep's website"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
+copyright = '<a href=\"/license\">License</a>'
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -34,7 +35,6 @@ paginate     = 10
     title = "sheep's website"
     subtitle = ""
     keywords = ""
-    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
