@@ -72,3 +72,7 @@ enableEmoji     = true
     identifier = "about"
     name       = "About"
     url        = "about"  
+   [[menu.main]]
+    identifier = "uses"
+    name = "Uses"
+    url = "uses"
