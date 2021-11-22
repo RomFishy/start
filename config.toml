@@ -1,5 +1,5 @@
 baseurl      = "https://sheeepdev.github.io/website"
-title        = "My Blog"
+title        = "sheep's website"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
