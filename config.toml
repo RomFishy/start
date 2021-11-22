@@ -1,5 +1,5 @@
 baseurl      = "/"
-title        = "sheep's website"
+title        = "sheep"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
