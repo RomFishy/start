@@ -41,7 +41,10 @@ enableEmoji     = true
       "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/pages\">GitHub Pages</a>",
       "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
     ]
-      
+   [params.portrait]  
+     path     = "https://raw.githubusercontent.com/sheeepdev/website/main/img/pfp.png"
+     alt      = "Logo"
+     maxWidth = "75px"      
 
 [taxonomies]
     category = "blog"
