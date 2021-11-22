@@ -1,4 +1,4 @@
-baseurl      = "https://sheeepdev.github.io/website"
+baseurl      = "/"
 title        = "sheep's website"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
@@ -57,7 +57,7 @@ enableEmoji     = true
 
     [languages.en.params.logo]
       logoText = "sheep's website"
-      logoHomeLink = "/website"
+      logoHomeLink = "/"
     # or
     #
     # path = "/img/your-example-logo.svg"
