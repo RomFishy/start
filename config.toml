@@ -15,10 +15,9 @@ enableEmoji     = true
   
   # My config options
   enableThemeToggle = true
-
-  # Subtitle for home
- homeTitle = "sheep"
- homeSubtitle = "A web developer from Zagreb, Croatia"
+  
+  homeTitle = "sheep"
+  homeSubtitle = "A web developer from Zagreb, Croatia"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
