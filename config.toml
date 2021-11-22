@@ -5,11 +5,17 @@ theme        = "hello-friend-ng"
 paginate     = 10
 copyright = '<a href=\"/license\">License</a>'
 
+enableEmoji     = true
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
+  
+  # My config options
+  enableSharingButtons = false
+  enableThemeToggle = true
 
   # Subtitle for home
   homeSubtitle = "A simple and beautiful blog"
@@ -24,6 +30,17 @@ copyright = '<a href=\"/license\">License</a>'
   description = "My new homepage or blog"
   keywords = "homepage, blog"
   images = [""]
+  
+  [params.footer]
+    trademark = false
+    rss = true
+    copyright = true
+    author = true
+
+    topText = [
+      "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/pages\">GitHub Pages</a>",
+      "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
+    ]
 
 [taxonomies]
     category = "blog"
