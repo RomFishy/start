@@ -1,4 +1,4 @@
-baseurl      = "/"
+baseurl      = "https://sheeepdev.github.io/website"
 title        = "sheep's website"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
