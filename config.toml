@@ -36,6 +36,8 @@ enableEmoji     = true
     copyright = true
     author = true
 
+    topText = [
+      "©️ 2021 sheep"
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/pages\">GitHub Pages</a>",
       "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
