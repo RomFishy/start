@@ -51,6 +51,23 @@ enableEmoji     = true
     tag      = "tags"
     series   = "series"
 
+[[params.social]]
+    name = "mastodon"
+    url  = "https://fosstodon.org/@sheepdev"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:hi@sheepdev.xyz"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/sheepdev"
+
+  [[params.social]]
+    name= "discord"
+    url="https://discord.com/users/429303151598895106"
+
+
 [languages]
   [languages.en]
     title = "sheep's website"
