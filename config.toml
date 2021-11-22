@@ -1,5 +1,5 @@
 baseurl      = "/"
-title        = "sheep"
+title        = "sheep's website"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -19,7 +19,7 @@ enableEmoji     = true
   images = [""]
   
   # Home stuff
-  title = "sheep"
+  homeTitle = "sheep"
   homeSubtitle = "A web developer from Zagreb, Croatia"
   
   # Theme toggle
@@ -57,9 +57,10 @@ enableEmoji     = true
     subtitle = ""
     keywords = ""
     readOtherPosts = "Read other posts"
+    homeTitle = "sheep"
 
     [languages.en.params.logo]
-      logoText = "sheep's website"
+      logoText = "sheep"
       logoHomeLink = "/"
     #  path = "https://raw.githubusercontent.com/sheeepdev/website/main/img/pfp.png"
     # alt = "Your example logo alt text"
