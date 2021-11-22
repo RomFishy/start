@@ -37,10 +37,11 @@ enableEmoji     = true
     copyright = true
     author = true
 
-    topText = [
+    bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a> and <a href=\"https://github.com/pages\">GitHub Pages</a>",
       "Theme by <a href=\"https://github.com/rhazdon\">Djordje Atlialp</a>"
     ]
+      
 
 [taxonomies]
     category = "blog"
