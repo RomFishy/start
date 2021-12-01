@@ -2,7 +2,7 @@
 title: The Best Password Manager
 author: sheep
 date: 2021-10-14 21:23:00 +0200
-tags: [passowords]
+tags: [passwords]
 ---
 
 Some time ago, when I quit BitWarden, I was stuck in a loop finding the best password manager for my needs.
