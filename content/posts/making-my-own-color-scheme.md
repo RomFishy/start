@@ -1,5 +1,5 @@
 ---
-title: Making my own color scheme
+title: Making My Own Color Scheme
 author: sheep
 date: 2021-12-02 12:33:00 +0200
 tags: [colors]
