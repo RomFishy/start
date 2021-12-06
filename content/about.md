@@ -20,7 +20,7 @@ The website is currently hosted on [GitHub Pages](https://github.com/pages) but 
 
 ## 👏 Credits
 I want to give credits to some people that I have took inspiration from for this website:
-<br>[Kev Quirk](https://kevq.uk) and [Pukima](https://pukima.site) - [Uses](https://sheepdev.xyz/uses) page</br>
-<br>[Will Webberley](https://wilw.dev) - this page (about page)</br>
+[Kev Quirk](https://kevq.uk) and [Pukima](https://pukima.site) - [Uses](https://sheepdev.xyz/uses) page\
+[Will Webberley](https://wilw.dev) - this page (about page)\
 
 
