@@ -3,6 +3,7 @@ title: Blogging Tools And Platforms
 author: sheep
 date: 2021-07-09 19:22:00 +0200
 tags: [blogging]
+comments: true
 ---
 
 
@@ -17,3 +18,6 @@ Just stick to simple and clean blogs.
 
 EDIT (13th July 2021)
 I've switched back to the chirpy theme because the theme im currently using isn't being maintained anymore and I rethinked it and I think chirpy is better because it has more features but it still isn't bloat.
+
+EDIT (6th December 2021)
+Switched to Hugo.
