@@ -6,7 +6,7 @@ title: "About"
 Hey there! I'm sheep, a web developer from Zagreb, Croatia. I enjoy ricing my system and love technology and programming, I know some C#, python and shell scripting but im always trying to learn new things :)
 
 ## 🌐 About this website
-This is my website, its my own space on the internet where I post anything that comes to mind, from blog posts to projects and updates
+This is my website, its my own space on the internet where I post anything that comes to mind, from blog posts to projects and updates.
 I consider this website to be a part of the [Small Web](https://ar.al/2020/08/07/what-is-the-small-web/), a collection of personal websites that are away from "big tech" compaines
 
 ## 📊 Privacy and Analytics
