@@ -56,7 +56,7 @@ This is a list of hardware and software I use!
 * Looking into [FreshRSS](https://www.freshrss.org/), thanks Kev.
 * Password Manager - [KeePass](https://keepass.info/) with the [KeeWeb Client](https://keeweb.info/) on my PC and the [KeePassDX Client](https://www.keepassdx.com/) on my phone.
 
-See the [credits](https://sheepdev.xyz/about) on the bottom of the about page!
-
+Credits:
+[Pukima](https://pukima.site/notes/my-tech/) and [Kev](https://kevq.uk/uses/)
 
 **NOTE:** I will constantly be updating this post based on my specs
