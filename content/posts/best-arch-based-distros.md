@@ -3,7 +3,6 @@ title: Best Arch Based Distros
 author: sheep
 date: 2021-08-09 14:42:00 +0200
 tags: [arch, linux, distro]
-comments: true
 ---
 
 I like to use pure arch, it is perfect for my usage case. I wouldn't suggest pure arch for newbies that have just come to linux, most of them go the debian-based route. 

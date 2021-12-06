@@ -6,7 +6,6 @@ categories: [Blogging]
 tags: [stylus]
 math: true
 mermaid: true
-comments: true
 ---
 
 First, let me introduce you to stylus. It is an extension for pretty much all browsers that allows you to write your own CSS for a website of your choice. You can install other styles which people made or you can write one yourself.

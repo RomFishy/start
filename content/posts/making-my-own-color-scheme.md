@@ -5,7 +5,6 @@ date: 2021-12-02 12:33:00 +0200
 tags: [colors]
 math: true
 mermaid: true
-comments: true
 ---
 
 Did you ever think of making your own color scheme? Well, I did. Recently I switched away from the [nord](https://nordtheme.com) color scheme because I just got bored of it and I wanted to make my own color scheme.
