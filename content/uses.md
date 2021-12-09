@@ -7,7 +7,7 @@ mermaid: true
 
 This is a list of hardware and software I use!
 
-# Desktop
+# 🖥️ Desktop
 * Keyboard: `Razer Huntsman`
 * Mouse: `Razer Mamba Elite`
 * Mousepad: `Razer Goliathus Chroma`
@@ -25,7 +25,7 @@ This is a list of hardware and software I use!
 * System:
   * `Arch Linux`
 
-# Laptops
+# 💻 Laptops
 * `Tuxedo Aura 15`
   * CPU: `AMD Ryzen 7 4700U`
   * GPU: `Integrated Graphics`
@@ -41,20 +41,19 @@ This is a list of hardware and software I use!
   * Stroage `128GB`
 * System: `Bedrock Linux (Distrohopping every once in a while)`
 
-# Phones
+# 📱 Phones
 * `Samsung Galaxy S20+ 5G` - Primary phone
 * `ZTE Blade A5 2020` - Secondary Phone (Which I don't really use)
 * `iPhone 6` - Old iPhone I have laying around (Which I never use)
 
-# Software I use
-* Notetaking - [Leaflet](https://play.google.com/store/apps/details?id=com.potatoproject.notes) on my phone and [Typora](https://typora.io/) for longer notes or [GEdit](https://wiki.gnome.org/Apps/Gedit) for quick notes on my PC
-* KDE Connect - I use it to connect my phone and PC together
-* Namecheap (domain registar)
-* Hosting - [Hostinger](https://hostinger.com), considering switching to a VPS.
-* Twitter - I follow Linux stuff.
-* Mastodon ([Fosstodon](https://fosstodon.org/))
-* Looking into [FreshRSS](https://www.freshrss.org/), thanks Kev.
-* Password Manager - [KeePass](https://keepass.info/) with the [KeeWeb Client](https://keeweb.info/) on my PC and the [KeePassDX Client](https://www.keepassdx.com/) on my phone.
+# 📦 Software I use
+* 📝 Notetaking - [Leaflet](https://play.google.com/store/apps/details?id=com.potatoproject.notes) on my phone and [Typora](https://typora.io/) for longer notes or [GEdit](https://wiki.gnome.org/Apps/Gedit) for quick notes on my PC
+* 📡 KDE Connect - I use it to connect my phone and PC together
+* ✨ Namecheap (domain registar)
+* 🌐 Hosting - [GitHub Pages](https://pages.github.com), considering switching to a VPS.
+* 🐘 Mastodon Instance - ([Fosstodon](https://fosstodon.org/))
+* 📰 Looking into [FreshRSS](https://www.freshrss.org/), thanks Kev.
+* 🔑 Password Manager - [KeePass](https://keepass.info/) with the [KeeWeb Client](https://keeweb.info/) on my PC and the [KeePassDX Client](https://www.keepassdx.com/) on my phone.
 
 Credits:
 [Pukima](https://pukima.site/notes/my-tech/) and [Kev](https://kevq.uk/uses/)
