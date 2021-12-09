@@ -96,7 +96,3 @@ enableEmoji     = true
     identifier = "uses"
     name = "Uses"
     url = "uses"
-   [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "contact"
