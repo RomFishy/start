@@ -38,7 +38,7 @@ This is a list of hardware and software I use!
 * `ThinkPad T430s` (Backup Laptop / Guest Laptop)
   * CPU: `Intel i5-3320M`
   * GPU: `Intel Integrated Graphics`
-  * Stroage `128GB`
+  * Storage `128GB`
 * System: `Windows`
 
 # 📱 Phones
