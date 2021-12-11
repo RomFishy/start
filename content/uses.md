@@ -57,5 +57,3 @@ This is a list of hardware and software I use!
 
 Credits:
 [Pukima](https://pukima.site/notes/my-tech/) and [Kev](https://kevq.uk/uses/)
-
-**NOTE:** I will constantly be updating this post based on my specs
