@@ -1,7 +1,7 @@
 ---
 title: The Best Linux Podcasts
 author: sheep
-date: Dec 15, 2021
+date: 2021-12-15 19:00:00 +0200
 tags: [linux]
 math: true
 mermaid: true
@@ -9,10 +9,10 @@ mermaid: true
 
 Recently, I started listening to podcasts. I searched around for some linux and tech podcasts and these are my favorites:
 
-- TWIT (This Week In Tech) - the weekly flagship podcast and namesake of the TWiT.tv network. It is hosted by Leo Laporte and many other former TechTV employees and currently produced by Jason Howell. It features round-table discussions and debates surrounding current technology news and reviews, with a particular focus on consumer electronics and the Internet.
+- [TWIT (This Week In Tech)](https://twit.tv/) - the weekly flagship podcast and namesake of the TWiT.tv network. It is hosted by Leo Laporte and many other former TechTV employees and currently produced by Jason Howell. It features round-table discussions and debates surrounding current technology news and reviews, with a particular focus on consumer electronics and the Internet.
 
-- This Week In Linux - a weekly new show that covers the latest news in the world of Linux. We cover a wide variety of topics from application / distro releases to Linux Gaming and even news about core system items like the Linux kernel itself.
+- [This Week In Linux](https://tuxdigital.com/thisweekinlinux/) - a weekly new show that covers the latest news in the world of Linux. We cover a wide variety of topics from application / distro releases to Linux Gaming and even news about core system items like the Linux kernel itself.
 
-- Late Night Linux - a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every week, Joe, Félim, Graham and Will discuss the latest news and releases, and the broader issues and trends in the world of free and open source software.
+- [Late Night Linux](https://latenightlinux.com/) - a podcast that takes a look at what’s happening with Linux and the wider tech industry. Every week, Joe, Félim, Graham and Will discuss the latest news and releases, and the broader issues and trends in the world of free and open source software.
 
 If I ever find some more, ill make sure to put them here :)
