@@ -6,6 +6,7 @@ paginate     = 10
 copyright = "<a href=\"/license\">License</a>"
 
 enableEmoji     = true
+enableRobotsTXT = false
 
 [params]
   dateform        = "Jan 2, 2006"
