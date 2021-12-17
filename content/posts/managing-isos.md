@@ -5,7 +5,6 @@ date: 2021-08-08 12:33:00 +0200
 tags: [iso, linux isos]
 math: true
 mermaid: true
-banner: "../../img/pfp.png"
 ---
 
 You know ISOs? Yeah, those images you use to flash a linux distro, or windows to a flash drive.
