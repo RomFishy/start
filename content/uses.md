@@ -30,7 +30,7 @@ This is a list of hardware and software I use!
   * CPU: `AMD Ryzen 7 4700U`
   * GPU: `Integrated Graphics`
   * Storage: `250GB`
-* System: `Fedora KDE`
+* System: `Windows 11`
 
 * Accesories: 
   * Mouse: `Razer Basilisk X Hyperspeed` 
@@ -39,7 +39,7 @@ This is a list of hardware and software I use!
   * CPU: `Intel i5-3320M`
   * GPU: `Intel Integrated Graphics`
   * Storage `128GB`
-* System: `Windows`
+* System: `Ubuntu`
 
 # 📱 Phones
 * `Samsung Galaxy S20+ 5G` - Primary phone
