@@ -49,7 +49,7 @@ This is a list of hardware and software I use!
 # 📦 Software I use
 * 📝 Notetaking - [Leaflet](https://play.google.com/store/apps/details?id=com.potatoproject.notes) on my phone and [Typora](https://typora.io/) for longer notes or [GEdit](https://wiki.gnome.org/Apps/Gedit) for quick notes on my PC
 * 📡 KDE Connect - I use it to connect my phone and PC together
-* ✨ Namecheap (domain registar)
+* ✨ Domain Registar - Namecheap (considering switching to something more private/easy to use)
 * 🌐 Hosting - [GitHub Pages](https://pages.github.com), considering switching to a VPS.
 * 🐘 Mastodon Instance - ([Fosstodon](https://fosstodon.org/))
 * 📰 Looking into [FreshRSS](https://www.freshrss.org/), thanks Kev.
