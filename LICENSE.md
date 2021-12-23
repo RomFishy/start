@@ -1,7 +1,7 @@
 MIT License
 
-Copyright (c) 2021 sheeepdev
-Content modified from [original creators](https://raw.githubusercontent.com/sheeepdev/hello-friend-ng/master/LICENSE.md)
+Copyright (c) 2021 sheeepdev<br />
+Content modified from [original creators](https://raw.githubusercontent.com/sheeepdev/hello-friend-ng/master/LICENSE.md)<br />
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
