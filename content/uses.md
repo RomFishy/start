@@ -46,7 +46,7 @@ This is a list of hardware and software I use!
 * `ZTE Blade A5 2020` - Secondary Phone (Which I don't really use)
 * `iPhone 6` - Old iPhone I have laying around (Which I never use)
 
-# 📦 Software I use
+# 📦 Software
 * 📝 Notetaking - [Leaflet](https://play.google.com/store/apps/details?id=com.potatoproject.notes) on my phone and [Typora](https://typora.io/) for longer notes or [GEdit](https://wiki.gnome.org/Apps/Gedit) for quick notes on my PC
 * 📡 KDE Connect - I use it to connect my phone and PC together
 * ✨ Domain Registar - Namecheap (considering switching to something more private/easy to use)
