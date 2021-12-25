@@ -39,7 +39,7 @@ This is a list of hardware and software I use!
   * CPU: `Intel i5-3320M`
   * GPU: `Intel Integrated Graphics`
   * Storage `128GB`
-* System: `Ubuntu`
+* System: `FreeBSD`
 
 # 📱 Phones
 * `Samsung Galaxy S20+ 5G` - Primary phone
