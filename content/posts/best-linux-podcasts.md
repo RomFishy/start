@@ -7,6 +7,8 @@ math: true
 mermaid: true
 ---
 
+![Podcast](https://images.pexels.com/photos/765139/pexels-photo-765139.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
+
 Recently, I started listening to podcasts. I searched around for some linux and tech podcasts and these are my favorites:
 
 - [TWIT (This Week In Tech)](https://twit.tv/) - the weekly flagship podcast and namesake of the TWiT.tv network. It is hosted by Leo Laporte and many other former TechTV employees and currently produced by Jason Howell. It features round-table discussions and debates surrounding current technology news and reviews, with a particular focus on consumer electronics and the Internet.
