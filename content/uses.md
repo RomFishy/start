@@ -35,7 +35,7 @@ This is a list of hardware and software I use!
 * Accesories: 
   * Mouse: `Razer Basilisk X Hyperspeed` 
 
-* `ThinkPad T430s` (Backup Laptop / Guest Laptop)
+* `ThinkPad T430s` (Backup Laptop / Distrohopping Laptop)
   * CPU: `Intel i5-3320M`
   * GPU: `Intel Integrated Graphics`
   * Storage `128GB`
