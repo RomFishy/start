@@ -2,7 +2,7 @@
 title: Blogging Tools And Platforms
 author: sheep
 date: 2021-07-09 19:22:00 +0200
-tags: [blogging]
+tags: [blogging, foss]
 ---
 
 
