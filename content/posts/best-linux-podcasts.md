@@ -1,7 +1,7 @@
 ---
 title: The Best Linux Podcasts
 author: sheep
-date: 2021-12-15 19:00:00 +0200
+date: 2021-12-15 19:00:00 +0100
 tags: [linux, foss]
 math: true
 mermaid: true
