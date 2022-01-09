@@ -5,6 +5,7 @@ date: 2022-01-09 15:10:00 +0100
 tags: [server, selfhosting, foss]
 ---
 
+![Podcast](https://images.pexels.com/photos/1054397/pexels-photo-1054397.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
 First, I wan't to apologize for my inactivity in writing blog posts, I have been busy with stuff.
 
 Anyways, what I have got around to doing is building my own home server!
