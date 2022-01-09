@@ -55,5 +55,32 @@ This is a list of hardware and software I use!
 * 📰 Looking into [FreshRSS](https://www.freshrss.org/), thanks Kev.
 * 🔑 Password Manager - [KeePass](https://keepass.info/) with the [KeeWeb Client](https://keeweb.info/) on my PC and the [KeePassDX Client](https://www.keepassdx.com/) on my phone.
 
+# ⌨️  Terminal Setup
+For my terminal, I use gnome terminal and for my shell I use [zsh](https://zsh.org/) and [oh my zsh](https://ohmyz.sh) with the [Starship](https://starship.rs) theme
+The font that I use is [Sauce Code Pro NF](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/SourceCodePro.zip)
+
+# 🔗 Browser Extensions (Firefox)
+* [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin)
+* [Universal Bypass](https://universal-bypass.org/)
+* [ClearURLs](https://docs.clearurls.xyz/latest/)
+* [Enhanced GitHub](https://github.com/softvar/enhanced-github#-enhanced-github)
+* [Hide Files on GitHub](https://github.com/sindresorhus/hide-files-on-github)
+* [Honey](https://www.joinhoney.com/)
+* [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+* [Lovely Forks](https://github.com/musically-ut/lovely-forks)
+* [Minimal Twitter](https://www.wang.sh/minimal-twitter/)
+* [New Tab Override](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/)
+* [Redirector](https://einaregilsson.com/redirector/)
+* [Refined GitHub](https://github.com/refined-github/refined-github)
+* [Return YouTube Dislikes](https://returnyoutubedislike.com/)
+* [Reverse Image Search](https://github.com/Brawl345/Image-Reverse-Search-WebExtension)
+* [ScrollAnywhere](https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/)
+* [SponsorBlock](https://sponsor.ajay.app/)
+* [Stardust Cookie Cutter](https://www.stardustnetwork.org/)
+* [Stylus](https://add0n.com/stylus.html)
+* [Wappalyzer](https://www.wappalyzer.com/apps/)
+
+And yes - I know its a lot, but most of them I do use every day :)
+
 Credits:
-[Pukima](https://pukima.site/notes/my-tech/) and [Kev](https://kevq.uk/uses/)
+[Pukima](https://pukima.site/notes/my-tech/), [Kev](https://kevq.uk/uses/) and [Jahir](https://jahir.dev/blog/uses)
