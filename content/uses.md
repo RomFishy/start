@@ -31,8 +31,6 @@ This is a list of hardware and software I use!
   * GPU: `Integrated Graphics`
   * Storage: `250GB`
 * System: `Windows 11`
-* Accesories: 
-  * Mouse: `Razer Basilisk X Hyperspeed` 
 
 * `ThinkPad T430s` (Backup Laptop / Distrohopping Laptop)
   * CPU: `Intel i5-3320M`
