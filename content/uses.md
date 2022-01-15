@@ -31,7 +31,6 @@ This is a list of hardware and software I use!
   * GPU: `Integrated Graphics`
   * Storage: `250GB`
 * System: `Windows 11`
-
 * Accesories: 
   * Mouse: `Razer Basilisk X Hyperspeed` 
 
@@ -39,12 +38,12 @@ This is a list of hardware and software I use!
   * CPU: `Intel i5-3320M`
   * GPU: `Intel Integrated Graphics`
   * Storage `128GB`
-* System: `Debian`
+* System: `Void Linux`
 
 # 📱 Phones
 * `Samsung Galaxy S20+ 5G` - Primary phone
 * `ZTE Blade A5 2020` - Secondary Phone (Which I don't really use)
-* `iPhone 6` - Old iPhone I have laying around (Which I never use)
+* `iPhone 6` - ~~Old iPhone I have laying around~~ *I lost it*
 
 # 📦 Software
 * 📝 Notetaking - [Leaflet](https://play.google.com/store/apps/details?id=com.potatoproject.notes) on my phone and [Typora](https://typora.io/) for longer notes or [GEdit](https://wiki.gnome.org/Apps/Gedit) for quick notes on my PC
