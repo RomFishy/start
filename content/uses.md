@@ -48,7 +48,7 @@ This is a list of hardware and software I use!
 * 📡 KDE Connect - I use it to connect my phone and PC together
 * ✨ Domain Registar - Namecheap (considering switching to something more private/easy to use)
 * 🌐 Hosting - [GitHub Pages](https://pages.github.com), considering switching to a VPS.
-* 🐘 Mastodon Instance - ([Fosstodon](https://fosstodon.org/))
+* 🐘 Mastodon Instance - [Fosstodon](https://fosstodon.org/)
 * 📰 Looking into [FreshRSS](https://www.freshrss.org/), thanks Kev.
 * 🔑 Password Manager - [KeePass](https://keepass.info/) with the [KeeWeb Client](https://keeweb.info/) on my PC and the [KeePassDX Client](https://www.keepassdx.com/) on my phone.
 
