@@ -26,13 +26,13 @@ This is a list of hardware and software I use!
   * `Arch Linux`
 
 # 💻 Laptops
-* `Tuxedo Aura 15`
+* `Tuxedo Aura 15` - Primary Laptop
   * CPU: `AMD Ryzen 7 4700U`
   * GPU: `Integrated Graphics`
   * Storage: `250GB`
-* System: `Windows 11`
+* System: `Windows 11 / Fedora 35` (Dual Boot)
 
-* `ThinkPad T430s` (Backup Laptop / Distrohopping Laptop)
+* `ThinkPad T430s` - Backup Laptop / Distrohopping Laptop
   * CPU: `Intel i5-3320M`
   * GPU: `Intel Integrated Graphics`
   * Storage `128GB`
