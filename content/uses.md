@@ -53,7 +53,10 @@ This is a list of hardware and software I use!
 * 🔑 Password Manager - [KeePass](https://keepass.info/) with the [KeeWeb Client](https://keeweb.info/) on my PC and the [KeePassDX Client](https://www.keepassdx.com/) on my phone.
 
 # ⌨️  Terminal Setup
-For my terminal, I use gnome terminal and for my shell I use [zsh](https://zsh.org/) and [oh my zsh](https://ohmyz.sh) with the [Starship](https://starship.rs) theme
+For my terminal, I use gnome terminal.
+
+For my shell I use [zsh](https://zsh.org/) and [oh my zsh](https://ohmyz.sh) with the [Starship](https://starship.rs) theme
+
 The font that I use is [Sauce Code Pro NF](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/SourceCodePro.zip)
 
 # 🔗 Browser Extensions (Firefox)
