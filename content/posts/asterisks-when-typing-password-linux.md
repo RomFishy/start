@@ -13,7 +13,7 @@ To do this, you will need to run this command
 
 `sudo EDITOR="nano" visudo`
 
-visudo is the editor used for editing the /etc/sudoers file.
+visudo is the editor used for editing the /etc/sudoers file, and we use the `EDITOR` env to use an easier editor instead of vim.
 
 Don't try to edit the file with just `sudo nano` because visudo is the only correct editor to use, because it makes a backup and is much more reliable and secure than just editing the file like you do normally.
 
