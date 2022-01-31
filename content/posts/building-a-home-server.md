@@ -13,7 +13,7 @@ I plan to self-host PhotoPrism, FreshRSS, and a few other apps. The specs of the
 
 # 🏠 Home Server Build
 
-* CPU: `Intel Core 13-10100F`
+* CPU: `Intel Core i3-10100F`
 * Motherboard: `ASRock H510M-HVS R2.0`
 * RAM: `8GB DDR4`
 * Power Supply: `Fortron Hexa+ PRO 400W`
