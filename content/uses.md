@@ -38,10 +38,12 @@ This is a list of hardware and software I use!
   * Storage `128GB`
 * System: `Void Linux`
 
-# 📱 Phones
+# 📱 Phones and Tablets
 * `Samsung Galaxy S20+ 5G` - Primary phone
+* `Samsung Galaxy Tab S6 Lite` - Primary tablet
 * `ZTE Blade A5 2020` - Secondary Phone (Which I don't really use)
 * `iPhone 6` - ~~Old iPhone I have laying around~~ *I lost it*
+
 
 # 📦 Software
 * 📝 Notetaking - [Leaflet](https://play.google.com/store/apps/details?id=com.potatoproject.notes) on my phone and [Typora](https://typora.io/) for longer notes or [GEdit](https://wiki.gnome.org/Apps/Gedit) for quick notes on my PC
