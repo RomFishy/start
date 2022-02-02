@@ -186,10 +186,10 @@ const CONFIG = {
       category: 'Other',
       name: 'Fosstodon',
       key: 'f',
-      url: 'https://fostodon.org',
+      url: 'https://fosstodon.org',
       search: '/search/results/all/?keywords={}',
       color: 'linear-gradient(135deg, #2b90d9, #2b90d9)',
-      icon: 'mastodon-x32',
+      icon: 'mastodon-32x',
       quickLaunch: true,
     },
     {
