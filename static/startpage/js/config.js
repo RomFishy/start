@@ -184,12 +184,12 @@ const CONFIG = {
     },
     {
       category: 'Other',
-      name: 'LinkedIn',
-      key: 'l',
-      url: 'https://linkedin.com',
+      name: 'Fosstodon',
+      key: 'f',
+      url: 'https://fostodon.org',
       search: '/search/results/all/?keywords={}',
-      color: 'linear-gradient(135deg, #006CA4, #0077B5)',
-      icon: 'linkedin',
+      color: 'linear-gradient(135deg, #2b90d9, #2b90d9)',
+      icon: 'mastodon-x32',
       quickLaunch: true,
     },
     {
