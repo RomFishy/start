@@ -1,7 +1,7 @@
 ---
 title: Showing Asterisks When Typing Password In Linux
 author: sheep
-date: 2022-01-30 17:00:00 +0100
+date: 2022-01-30 16:54:00 +0100
 tags: [linux]
 ---
 
