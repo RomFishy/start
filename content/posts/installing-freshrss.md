@@ -5,8 +5,6 @@ date: 2022-02-04 17:00:00 +0100
 tags: [blogging]
 ---
 
-# FreshRSS
-
 Recently, I found out about [FreshRSS](https://freshrss.org) from [Kev](https://kevq.uk).
 
 I have been interested in trying it out for a long time but I just now got the time to do it.
@@ -27,7 +25,7 @@ I also set up a self-signed certificate for the FreshRSS instance, but I wont ge
 
 In this post I quickly went over how I installed FreshRSS and what hoops I needed to jump thru to get it up and running
 
-# ✍  100DaysToOffload
+# ✏️ 100DaysToOffload
 
 I was recently (*not so recently*) introduced to something called [#100DaysToOffload](https://100daystooffload.com).
 
