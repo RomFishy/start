@@ -1,7 +1,7 @@
 ---
 title: My Thoughts On Selfhosting
 author: sheep
-date: 2022-01-30 16:54:00 +0100
+date: 2022-02-07 10:29:00 +0100
 tags: [foss, selfhosting]
 ---
 
