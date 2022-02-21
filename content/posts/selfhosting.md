@@ -18,5 +18,3 @@ Conclusion:
 Selfhosting is good if you think the service you want to host is perfect for hosting at home.
 
 Sorry for the short post.
-
-This is day 2 of [#100DaysToOffload](https://100daystooffload.com)

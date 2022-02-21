@@ -24,11 +24,3 @@ I also set up a self-signed certificate for the FreshRSS instance, but I wont ge
 # 📝 Final Thoughts
 
 In this post I quickly went over how I installed FreshRSS and what hoops I needed to jump thru to get it up and running
-
-# ✏️ 100DaysToOffload
-
-I was recently (*not so recently*) introduced to something called [#100DaysToOffload](https://100daystooffload.com).
-
-#100DaysToOffload is a challenge in which you need to write 100 blog posts in the space of a year.
-
-Many bloggers I follow are doing or already did this challenge, so I decided, fuck it, im gonna do it too! So here we are, this is day 1 of #100DaysToOffload!
