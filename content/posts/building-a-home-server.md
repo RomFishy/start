@@ -20,9 +20,9 @@ I plan to self-host PhotoPrism, FreshRSS, and a few other apps. The specs of the
 * Storage:
   * `Patriot P210 128GB` - System Drive	
   * `2x WD Red Plus 4TB` - Storage Drives
-* System: `Debian`
+* System: `Ubuntu Server`
 
-The drives will be set up as RAID1
+The drives are set up as RAID1
 
 Ill update you later when I get to installing the OS and all the apps & docker containers :)
 
