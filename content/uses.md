@@ -46,18 +46,18 @@ This is a list of hardware and software I use!
 
 
 # 📦 Software
-* 📝 Notetaking - [Leaflet](https://play.google.com/store/apps/details?id=com.potatoproject.notes) on my phone and [Apostrophe](https://gitlab.gnome.org/World/apostrophe) for longer notes on my PC
-* 📡 KDE Connect - I use it to connect my phone and PC together
-* ✨ Domain Registar - [Namecheap](https://namecheap.com) (considering switching to something more private/easy to use)
-* 🌐 Hosting - [GitHub Pages](https://pages.github.com), considering switching to a VPS.
-* 🐘 Mastodon Instance - [Fosstodon](https://fosstodon.org/)
-* 📰 Using [FreshRSS](https://www.freshrss.org/), thanks Kev.
-* 🔑 Password Manager - [KeePass](https://keepass.info/) with the [KeeWeb Client](https://keeweb.info/) on my PC and the [KeePassDX Client](https://www.keepassdx.com/) on my phone.
+* 📝 Notetaking - [Leaflet](https://play.google.com/store/apps/details?id=com.potatoproject.notes) and [Apostrophe](https://gitlab.gnome.org/World/apostrophe)
+* 📡 [KDE Connect](https://kdeconnect.kde.org/)
+* ✨ Domain Registar - [Namecheap](https://namecheap.com)
+* 🌐 Hosting - [GitHub Pages](https://pages.github.com).
+* 🐘 Mastodon Instance - [Fosstodon](https://fosstodon.org/).
+* 🔑 Password Manager - [GNOME Secrets](https://gitlab.gnome.org/World/secrets/) and [KeePassDX](https://www.keepassdx.com/)
 
 # ⌨️  Terminal Setup
-For my terminal, I use gnome terminal.
 
-For my shell I use [zsh](https://zsh.org/) and [oh my zsh](https://ohmyz.sh) with the [Starship](https://starship.rs) theme
+For my terminal, I use the default GNOME terminal.
+
+For my shell I use [zsh](https://zsh.org/) with the [oh my zsh](https://ohmyz.sh) framwork. As for the prompt, I use [Starship](https://starship.rs).
 
 The font that I use is [Sauce Code Pro NF](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/SourceCodePro.zip)
 
@@ -82,7 +82,5 @@ The font that I use is [Sauce Code Pro NF](https://github.com/ryanoasis/nerd-fon
 * [Stylus](https://add0n.com/stylus.html)
 * [Wappalyzer](https://www.wappalyzer.com/apps/)
 
-And yes - I know its a lot, but most of them I do use every day :)
-
 Credits:
-[Pukima](https://pukima.site/notes/my-tech/), [Kev](https://kevq.uk/uses/) and [Jahir](https://jahir.dev/blog/uses)
+[Pukima](https://pukima.site/), [Kev](https://kevq.uk/uses/) and [Jahir](https://jahir.dev/blog/uses)
