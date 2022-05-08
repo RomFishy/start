@@ -21,7 +21,7 @@ enableRobotsTXT = true
   
   # Home stuff
   homeTitle = "sheep"
-  homeSubtitle = "A web developer from Zagreb, Croatia"
+  homeSubtitle = "A developer from Zagreb, Croatia"
   
   # Theme toggle
   enableThemeToggle = true
