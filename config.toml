@@ -8,6 +8,11 @@ copyright = "<a href=\"/license\">License</a>"
 enableEmoji     = true
 enableRobotsTXT = true
 
+# Comment Support - Added from https://github.com/rhazdon/hugo-theme-hello-friend-ng/pull/117
+[params.utterances]        # https://utteranc.es/
+  owner = "sheeepdev"      # Your GitHub ID
+  repo = "website"         # The repo to store comments
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
