@@ -3,7 +3,7 @@ title        = "sheep's website"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
-copyright    = "© 2022 sheep"
+copyright    = "© 2022"
 
 enableEmoji     = true
 enableRobotsTXT = true
