@@ -34,7 +34,7 @@ This is a list of hardware and software I use!
   * GPU: `Integrated Graphics`
   * Storage: `250GB`
 
-* System: `Windows 11` (Dual Boot)
+* System: `Fedora`
 
 * `ThinkPad T430s` - Linux & Distrohopping Laptop
   
