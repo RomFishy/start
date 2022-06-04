@@ -71,7 +71,7 @@ enableRobotsTXT = true
 
   [[params.social]]
   	name = "gpg"
-  	url = "https://sheepdev.xyz/pgpkey.asc"
+  	url = "https://sheepdev.xyz/pgpkey.txt"
 
 
 [languages]
