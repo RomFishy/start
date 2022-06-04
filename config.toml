@@ -66,8 +66,12 @@ enableRobotsTXT = true
     url  = "https://github.com/sheeepdev"
 
   [[params.social]]
-    name= "discord"
-    url="https://discord.com/users/429303151598895106"
+    name = "discord"
+    url ="https://discord.com/users/429303151598895106"
+
+  [[params.social]]
+  	name = "gpg"
+  	url = "https://sheepdev.xyz/pgpkey.asc"
 
 
 [languages]
