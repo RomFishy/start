@@ -8,7 +8,6 @@ mermaid: true
 This is a list of hardware and software I use!
 
 # Hardware
-
 ## Desktop
 
 * Keyboard: **Razer Huntsman**
@@ -41,8 +40,8 @@ This is a list of hardware and software I use!
   * GPU: **Intel Integrated Graphics**
   * Storage: **128GB**
 
-* System: **Artix Linux**
-
+	* System: **Artix Linux**
+	
 ## Phones
 
 * Samsung Galaxy S20+ 5G
@@ -53,7 +52,6 @@ This is a list of hardware and software I use!
 * Samsung Galaxy Tab S6 Lite
 
 # Software
-
 ## Tools
 
 * Leaflet, Ghostwriter, KDE Connect, KeePassXC & KeePassDX, Etcher...
@@ -71,12 +69,12 @@ This is a list of hardware and software I use!
 
 ## Web services
 
-### Website-related
+#### Website-related
 
 * Namecheap - domain registar
 * GitHub pages - hosting platform
 
-### Other
+#### Other
 
 * Mastodon - [Fosstodon](https://fosstodon.org)
 
@@ -101,7 +99,6 @@ This is a list of hardware and software I use!
 * [Stylus](https://add0n.com/stylus.html)
 
 # Accessories
-
 ## Headphones
 
 * Sony WH-CH510 - pretty cheap but they do the trick
