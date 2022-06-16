@@ -7,66 +7,80 @@ mermaid: true
 
 This is a list of hardware and software I use!
 
-# 🖥️ Desktop
+# Hardware
 
-* Keyboard: `Razer Huntsman`
-* Mouse: `Razer Mamba Elite`
-* Mousepad: `Razer Goliathus Chroma`
-* Monitor: `Acer Nitro VG240Y`
+## Desktop
+
+* Keyboard: **Razer Huntsman**
+* Mouse: **Razer Mamba Elite**
+* Monitor: **Acer Nitro VG240Y**
 * PC
-  * CPU: `AMD Ryzen 3 2200G`
-  * GPU: `NVIDIA GeForce GTX 1050 Ti`
-  * Motherboard: `Gigabyte A320M-S2H`
-  * RAM: `16GB DDR4`
-  * Power Supply: No idea
+  * CPU: **AMD Ryzen 3 2200G**
+  * GPU: **NVIDIA GeForce GTX 1050 Ti**
+  * Motherboard: **Gigabyte A320M-S2H**
+  * RAM: **16GB DDR4**
   * Storage:
-    * `Crucial BX500 480GB` - System Drive
-    * `TOSHIBA HDWD110` - Storage Drive
-    * `Transcend 2TB Portable HDD` - Games Drive (Don't know the exact model)
-* System:
-  * `Arch Linux`
+    * **Crucial BX500 480GB** - System Drive
+    * **TOSHIBA HDWD110** - Storage Drive
+    * **Transcend 2TB Portable HDD** - Games Drive (Don't know the exact model)
 
-# 💻 Laptops
+* System (Dual boot):
+  * **Arch Linux**, **Windows**
 
-* `Tuxedo Aura 15` - Gaming/Schoolwork Laptop
-  
-  * CPU: `AMD Ryzen 7 4700U`
-  * GPU: `Integrated Graphics`
-  * Storage: `250GB`
+## Laptops
 
-* System: `Fedora`
+### Tuxedo Aura 15
 
-* `ThinkPad T430s` - Linux & Distrohopping Laptop
-  
-  * CPU: `Intel i5-3320M`
-  * GPU: `Intel Integrated Graphics`
-  * Storage `128GB`
+  * CPU: **AMD Ryzen 7 4700U**
+  * GPU: **Integrated Graphics**
+  * Storage: **250GB**
 
-* System: `Artix Linux`
+### ThinkPad T430s
 
-# 📱 Phones and Tablets
+  * CPU: **Intel i5-3320M**
+  * GPU: **Intel Integrated Graphics**
+  * Storage: **128GB**
 
-* `Samsung Galaxy S20+ 5G` - Primary phone
-* `Samsung Galaxy Tab S6 Lite` - Primary tablet
+* System: **Artix Linux**
 
-# 📦 Software
+## Phones
 
-* 📝 Notetaking - [Leaflet](https://play.google.com/store/apps/details?id=com.potatoproject.notes) and [MarkText](https://github.com/marktext/marktext)
-* 📡 [KDE Connect](https://kdeconnect.kde.org/)
-* ✨ Domain Registar - [Namecheap](https://namecheap.com)
-* 🌐 Hosting - [GitHub Pages](https://pages.github.com).
-* 🐘 Mastodon Instance - [Fosstodon](https://fosstodon.org/).
-* 🔑 Password Manager - [KeePassXC](https://keepassxc.org/) and [KeePassDX](https://www.keepassdx.com/)
+* Samsung Galaxy S20+ 5G
+* iPhone 6
 
-# ⌨️  Terminal Setup
+## Tablet
 
-For my terminal, I use Konsole, KDE's default terminal.
+* Samsung Galaxy Tab S6 Lite
 
-For my shell I use [zsh](https://zsh.org/) with the [oh my zsh](https://ohmyz.sh) framwork. As for the prompt, I use [Starship](https://starship.rs).
+# Software
 
-The fonts that I use is [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) and [Fira Code](https://github.com/tonsky/FiraCode). I use the versions patched for [nerd icons](https://nerdfonts.com).
+## Tools
 
-# 🔗 Browser Extensions (Firefox)
+* Leaflet, Ghostwriter, KDE Connect, KeePassXC & KeePassDX, Etcher...
+
+## Browsers
+
+* Firefox - main
+* Bromite - phone
+
+## Terminal
+
+* Konsole
+* Zsh with [oh my zsh](https://ohmyz.sh)
+* [Starship](https://starship.rs) for Zsh
+
+## Web services
+
+### Website-related
+
+* Namecheap - domain registar
+* GitHub pages - hosting platform
+
+### Other
+
+* Mastodon - [Fosstodon](https://fosstodon.org)
+
+## Browser Extensions
 
 * [uBlock Origin](https://github.com/gorhill/uBlock#ublock-origin)
 * [Universal Bypass](https://universal-bypass.org/)
@@ -86,5 +100,11 @@ The fonts that I use is [Source Code Pro](https://github.com/adobe-fonts/source-
 * [Stardust Cookie Cutter](https://www.stardustnetwork.org/)
 * [Stylus](https://add0n.com/stylus.html)
 
-Credits:
-[Pukima](https://pukima.site/), [Kev](https://kevq.uk/uses/) and [Jahir](https://jahir.dev/blog/uses)
+# Accessories
+
+## Headphones
+
+* Sony WH-CH510 - pretty cheap but they do the trick
+
+# Credits
+[Pukima](https://pukima.site/), [Kev](https://kevq.uk/uses/)  [Jahir](https://jahir.dev/blog/uses), [Fury](https://fury.hk/uses)
