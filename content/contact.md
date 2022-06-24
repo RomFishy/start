@@ -1,5 +1,7 @@
 ---
 title: "Contact"
+math: true
+mermaid: true
 ---
 
 If you wish to chat with me, report any errors on this website or anything else, this is the place. Follow the links below to find a way to contact me:
