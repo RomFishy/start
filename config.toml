@@ -99,5 +99,9 @@ enableRobotsTXT = true
     url        = "about"  
    [[menu.main]]
     identifier = "uses"
-    name = "Uses"
-    url = "uses"
+    name       = "Uses"
+    url        = "uses"
+   [[menu.main]]
+   	identifier = "contact"
+   	name 	   = "Contact"
+   	url        = "contact" 
