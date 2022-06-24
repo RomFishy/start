@@ -11,6 +11,7 @@ I don't wanna say it, but I distrohop very often.
 
 This is my opinion on distrohopping:
 The reason why I do it is just for fun of trying something new. I don't think that's a stupid reason for doing it. Some people do actually distrohop to find the perfect distribution.
+
 The thing is, the perfect distribution does not exist. It really depends on your use case:
 - Want a distribution tailored to a server?
 - Laptop?
