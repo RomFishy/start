@@ -34,13 +34,15 @@ This is a list of hardware and software I use!
   * GPU: **Integrated Graphics**
   * Storage: **250GB**
 
+  	* System: **Artix Linux**
+
 ### ThinkPad T430s
 
   * CPU: **Intel i5-3320M**
   * GPU: **Intel Integrated Graphics**
   * Storage: **128GB**
 
-	* System: **Artix Linux**
+	* System: **Alpine Linux**
 	
 ## Phones
 
