@@ -7,6 +7,8 @@ mermaid: true
 
 This is a list of hardware and software I use!
 
+Last updated: **27th June 2022**
+
 # Hardware
 ## Desktop
 
