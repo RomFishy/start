@@ -165,12 +165,12 @@ const CONFIG = {
 
     {
       category: 'Other',
-      name: 'Twitter',
-      key: 't',
-      url: 'https://www.twitter.com',
+      name: 'Nitter',
+      key: 'n',
+      url: 'https://www.nitter.net',
       search: '/search?q={}&src=typed_query',
       color: 'linear-gradient(135deg, #1DA1F2, #19608F)',
-      icon: 'twitter',
+      icon: 'nitter',
       quickLaunch: true,
     },
     {
