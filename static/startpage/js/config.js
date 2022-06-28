@@ -167,7 +167,7 @@ const CONFIG = {
       category: 'Other',
       name: 'Nitter',
       key: 'n',
-      url: 'https://www.nitter.net',
+      url: 'https://nitter.net',
       search: '/search?q={}&src=typed_query',
       color: 'linear-gradient(135deg, #1DA1F2, #19608F)',
       icon: 'nitter',
