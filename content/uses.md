@@ -7,7 +7,7 @@ mermaid: true
 
 This is a list of hardware and software I use!
 
-Last updated: **27th June 2022**
+Last updated: **29th June 2022**
 
 # Hardware
 ## Desktop
@@ -44,7 +44,7 @@ Last updated: **27th June 2022**
   * GPU: **Intel Integrated Graphics**
   * Storage: **128GB**
 
-	* System: **Alpine Linux**
+	* System: **Void Linux**
 	
 ## Phones
 
