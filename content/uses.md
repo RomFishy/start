@@ -44,7 +44,7 @@ Last updated: **July 2nd, 2022**
   * GPU: **Intel Integrated Graphics**
   * Storage: **128GB**
 
-	* System: **Gentoo Linux**
+	* System: **Void Linux**
 	
 ## Phones
 
