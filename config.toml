@@ -8,6 +8,10 @@ copyright    = "© 2022"
 enableEmoji     = true
 enableRobotsTXT = true
 
+[params.utterances]
+	owner = "sheeepdev"
+	repo = "website"
+
 [params]
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
