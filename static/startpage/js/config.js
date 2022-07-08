@@ -24,7 +24,7 @@ const CONFIG = {
     },
     {
       category: 'General',
-      name: 'Drive',
+      name: 'ProtonMail',
       key: 'p',
       url: 'https://account.proton.me/switch',
       color: 'linear-gradient(135deg, #6546e9, #2986e7, #844ddf)',
