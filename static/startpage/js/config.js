@@ -25,11 +25,10 @@ const CONFIG = {
     {
       category: 'General',
       name: 'Drive',
-      key: 'd',
-      url: 'https://drive.google.com',
-      search: '/drive/search?q={}',
-      color: 'linear-gradient(135deg, #FFD04B, #1EA362, #4688F3)',
-      icon: 'drive',
+      key: 'p',
+      url: 'https://account.proton.me/switch',
+      color: 'linear-gradient(135deg, #6546e9, #2986e7, #844ddf)',
+      icon: 'protonmail',
       quickLaunch: false,
     },
     {
