@@ -1,7 +1,7 @@
 ---
 title: The Small Web and Corporate Bullshit
 author: sheep 
-date: 2022-07-11 20:55:00 +0200 
+date: July 11th, 2022, 20:55:00 +0200 
 tags: [web, big-tech] 
 ---
 
