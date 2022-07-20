@@ -48,7 +48,7 @@ enableRobotsTXT = true
     ]
     
    [params.portrait]  
-     path     = "https://raw.githubusercontent.com/sheeepdev/website/main/images/pfp.png"
+     path     = "https://raw.githubusercontent.com/sheeepdev/website/main/assets/sheep.png"
      alt      = "Logo"
      maxWidth = "75px"      
 
