@@ -2,11 +2,9 @@
 title: "About"
 ---
 
-{{< image src="https://github.com/sheeepdev/website/raw/main/assets/sheep.png" alt="Profile Picture" position="left" >}}
+{{< image src="https://github.com/sheeepdev/website/raw/main/assets/sheep.png" alt="Profile Picture" position="left" float="left" >}}
 
-{{% right %}}
 Hey there! I'm sheep, a software developer from Zagreb, Croatia. I enjoy ricing my system and love technology and programming, I know some C#, python and shell scripting but im always trying to learn new things :)
-{{% /right %}}
 
 ## About this website
 This is my website, its my own space on the internet where I post anything that comes to mind, from blog posts to projects and updates.
