@@ -8,11 +8,6 @@ copyright    = "© 2022"
 enableEmoji     = true
 enableRobotsTXT = true
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
-
 [params.utterances]
 	owner = "sheeepdev"
 	repo = "website"
