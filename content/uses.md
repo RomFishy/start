@@ -44,7 +44,7 @@ Last updated: **July 2nd, 2022**
   * GPU: **Intel Integrated Graphics**
   * Storage: **128GB**
 
-	* System: **Void Linux**
+	* System: **Dbeian Linux**
 	
 ## Phones
 
@@ -76,7 +76,7 @@ Last updated: **July 2nd, 2022**
 #### Website-related
 
 * Namecheap - domain registar
-* GitHub pages - hosting platform
+* GitHub Pages - hosting platform
 
 #### Other
 
