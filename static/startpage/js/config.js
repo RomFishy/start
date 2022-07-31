@@ -7,9 +7,9 @@ const CONFIG = {
    * Update line 11 and 13 if you prefer using Google.
    */
   commands: [{
-      name: 'Eclipse Search - searxng',
+      name: 'Google',
       key: '*',
-      url: 'https://search.sheepdev.xyz',
+      url: 'https://google.com',
       search: '/search?q={}'
     },
     {
