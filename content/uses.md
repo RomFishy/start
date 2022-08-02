@@ -36,7 +36,7 @@ Last updated: **July 2nd, 2022**
   * GPU: **Integrated Graphics**
   * Storage: **250GB**
 
-  	* System: **Artix Linux**
+  	* System: **Fedora Linux**
 
 ### ThinkPad T430s
 
