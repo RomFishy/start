@@ -23,7 +23,7 @@ Last updated: **July 2nd, 2022**
   * Storage:
     * **Crucial BX500 480GB** - System Drive
     * **TOSHIBA HDWD110** - Storage Drive
-    * **Transcend 2TB Portable HDD** - Games Drive (Don't know the exact model)
+    * **Transcend TS2TSJ25M3C 2TB** - Games Drive
 
 * System (Dual boot):
   * **Arch Linux**, **Windows**
