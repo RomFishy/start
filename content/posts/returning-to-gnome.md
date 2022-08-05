@@ -5,7 +5,7 @@ date: 2022-08-05 20:45:00 +0200
 tags: [linux, foss]
 ---
 
-After a horrible experience with GNOME, and after seeing that theming has gotten possible again after a few months, I have made a decision to return back to GNOME. 
+[After a horrible experience with GNOME](https://sheepdev.xyz/posts/switching-from-gnome-to-kde/), and after seeing that theming has gotten possible again after a few months, I have made a decision to return back to GNOME. 
 
 My experience so far has been OK, the only problems have been very long gnome-shell loading times which I have fixed by following [this reddit comment](https://www.reddit.com/r/archlinux/comments/sjpyck/gnome_and_other_gtkbased_des_take_a_long_time_to/id6j31z/).
 
