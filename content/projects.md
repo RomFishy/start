@@ -21,7 +21,7 @@ They are currently archived because I switched away from nord.
 
 {{< image src="https://github.com/lunar-theme/lunar-theme/raw/main/assets/icon-rounded.png" alt="Lunar" position="center" style="border-radius: 8px;" >}}
 
-Lunar is one of my more recent projects. It is a black and blue color scheme inspired by the endless beauty of space.
+[Lunar](https://github.com/lunar-theme) is one of my more recent projects. It is a black and blue color scheme inspired by the endless beauty of space.
 
 Some of its elements are taken from colorschemes such as [Rose Pine](https://rosepinetheme.com), [Nord](https://nordtheme.com) and [Catppuccin](https://github.com/catppuccin).
 
@@ -45,7 +45,7 @@ We have many resources on theming and changing every aspect of Windows, we are b
 
 This one is straight out of the oven!
 
-DistroEraser is a script that erases your entire drive to get it ready for a distrohop / new OS!
+[DistroEraser](https://github.com/sheeepdev/distroeraser) is a script that erases your entire drive to get it ready for a distrohop / new OS!
 
 It is intended for distrohoppers, *such as me* who like to start fresh.
 
