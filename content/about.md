@@ -13,7 +13,7 @@ Currently, I don't use any analytics on this website. I do, once in a while, che
 ## Technology
 This website was built using the [Hugo](https://gohugo.io) SSG and the [hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) theme.
 
-The website is hosted on [GitHub Pages](https://github.com/pages).
+The website is hosted on [Netlify](https://netlify.com/).
 
 ## Credits
 I want to give credits to some people that I ~~copied~~ took inspiration from for this website:
