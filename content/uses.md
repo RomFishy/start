@@ -76,7 +76,8 @@ Last updated: **July 2nd, 2022**
 #### Website-related
 
 * Namecheap - domain registar
-* GitHub Pages - hosting platform
+* Cloudflare - DNS management
+* Netlify - hosting platform
 
 #### Other
 
