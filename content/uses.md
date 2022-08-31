@@ -26,7 +26,7 @@ Last updated: **July 2nd, 2022**
     * **Transcend TS2TSJ25M3C 2TB** - Games Drive
 
 * System (Dual boot):
-  * **Arch Linux**, **Windows**
+  * **Arch Linux**, **Windows 10**
 
 ## Laptops
 
@@ -44,7 +44,7 @@ Last updated: **July 2nd, 2022**
   * GPU: **Intel Integrated Graphics**
   * Storage: **128GB**
 
-	* System: **Alpine Linux**
+	* System: **Void Linux**
 	
 ## Phones
 
