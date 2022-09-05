@@ -1,3 +1,7 @@
+---
+title: "Privacy Policy"
+---
+
 # Privacy Policy
 
 In this Policy, when I refer to “this website”, “my website” or simply “it”, I’m referring to the website `sheepdev.xyz`.
