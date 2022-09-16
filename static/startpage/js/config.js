@@ -16,7 +16,7 @@ const CONFIG = {
       category: 'General',
       name: 'Horizon',
       key: 'ho',
-      url: 'https://192.168.1.5',
+      url: 'http://192.168.1.5',
       color: 'linear-gradient(135deg, #ff8400, #ff6f00)',
       icon: 'horizon',
       quickLaunch: false,
