@@ -14,6 +14,15 @@ const CONFIG = {
     },
     {
       category: 'General',
+      name: 'Horizon',
+      key: 'ho',
+      url: 'https://192.168.1.5',
+      color: 'linear-gradient(135deg, #ff8400, #ff6f00)',
+      icon: 'horizon',
+      quickLaunch: false,
+    },
+    {
+      category: 'General',
       name: 'Mail',
       key: 'm',
       url: 'https://gmail.com',
@@ -47,15 +56,6 @@ const CONFIG = {
       url: 'https://web.whatsapp.com',
       color: 'linear-gradient(135deg, #25D366, #128C7E, #075E54)',
       icon: 'whatsapp',
-      quickLaunch: false,
-    },
-    {
-      category: 'General',
-      name: 'Discord',
-      key: 'dc',
-      url: 'https://discord.com/app',
-      color: '#7289da',
-      icon: 'discord',
       quickLaunch: false,
     },
 
