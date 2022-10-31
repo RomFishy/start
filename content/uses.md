@@ -36,7 +36,7 @@ Last updated: **July 2nd, 2022**
   * GPU: **Integrated Graphics**
   * Storage: **250GB**
 
-  	* System: **Fedora Linux**
+  	* System: **Alpine Linux**
 
 ### ThinkPad T430s
 
@@ -44,7 +44,7 @@ Last updated: **July 2nd, 2022**
   * GPU: **Intel Integrated Graphics**
   * Storage: **128GB**
 
-	* System: **FreeBSD**
+	* System: **Gentoo Linux**
 	
 ## Phones
 
